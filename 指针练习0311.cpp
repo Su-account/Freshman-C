@@ -1,16 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
 //#include<stdio.h>
-//
-//int main(void)
-//{
-//	int arr[10] = { 0 };
-//	scanf("%d", &arr);
-//	printf("%d\n", arr[0]);
-//	return 0;
-//}
-
-//#include<stdio.h>
 //#define N 4
 //
 //void swap(int* p, int* q)
